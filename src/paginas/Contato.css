@@ -1,0 +1,39 @@
+.Contato {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .ItemFormulario {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  /* Adicionando estilos específicos para o tipo 'textarea' */
+  textarea {
+    resize: vertical; /* Permitir a redimensionamento vertical apenas */
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
