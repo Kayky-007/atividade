@@ -1,0 +1,23 @@
+/* Adicione estilos específicos para o conteúdo dentro de Col */
+.col-centered-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px; /* Ajuste a margem conforme necessário */
+    
+  }
+  
+  /* Estilos específicos para o h2 */
+  .col-centered-content h2 {
+    /* Adicione estilos específicos para o h2, se necessário */
+  }
+  
+  /* Estilos específicos para o h6 */
+  .col-centered-content h6 {
+    /* Adicione estilos específicos para o h6, se necessário */
+  }
+#teste{
+    background-color: #000000;
+    color: white;
+}

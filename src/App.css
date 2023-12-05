@@ -73,10 +73,11 @@ body {
 
 .menu {
   list-style-type: none;
-  padding: 15px;
+  padding: 5px;
   margin: 0;
   display: flex;
-  background-color: #333;
+  background-color: #666363;
+  justify-content: center;
 }
 
 .menu li {
@@ -87,20 +88,23 @@ body {
   text-decoration: none;
   color: rgb(255, 255, 255);
   padding: 10px;
-  transition: background-color 0.3s ease;
-}
-
-.menu li a:hover {
-  background-color: #3100f6;
-}
-
-
-.bemvindo {
+  transition: background-color 5s ease;
   
 }
+
+.menu li h2:hover {
+  background-color: #c4650d;
+  padding: 7px;
+  
+}
+
+
+
 .rodape{
   background-color: black;
 }
+
+
 
 
 

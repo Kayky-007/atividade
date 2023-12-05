@@ -1,4 +1,8 @@
+
+
 function ItemServico({ funcao, nome, idade, contato, img }) {
+
+
     return (
         <div>
              <img src={img} alt={nome} width="500px" />
